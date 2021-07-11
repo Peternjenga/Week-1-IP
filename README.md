@@ -13,5 +13,5 @@ HTML  and CSS
 ## Support and contact details
 If you ave any issues or need clarification on my website reach me on peter.njenga@student.moringascool.com. More over you can make a contribution to the code if needed.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}**
+MIT
+Copyright (c) 2021  **Peter.N**
