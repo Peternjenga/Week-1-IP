@@ -1,5 +1,5 @@
 body {
-    background-color: grey;
+    background-color:honeydew;
 }
 
 .topnav {
@@ -27,4 +27,11 @@ body {
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
+  }
+  .float{
+      align-items: center;
+  }
+  .font{
+      font-size: x-large;
+      font-family: Times New Roman;
   }
