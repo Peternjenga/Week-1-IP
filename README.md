@@ -2,7 +2,7 @@
 #### This is a website that contains my portfolio as a software developer, July 7th 2021.
 #### By Peter Njenga
 ## Description
-This is a website that contains my portfolio as a software developer. It's aim is to illustrate my abilities to a party interested in my software development skills. 
+This is a website that contains my portfolio as a software developer. It's aim is to illustrate my abilities to a party interested in my software development skills. The project is on the following link https://peternjenga.github.io/Week-1-IP
 ## Setup/Installation Requirements
 500GB hard disk
 8Gb Ram
