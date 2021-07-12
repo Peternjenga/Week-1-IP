@@ -12,6 +12,9 @@ No known bugs.
 HTML  and CSS
 ## Support and contact details
 If you ave any issues or need clarification on my website reach me on peter.njenga@student.moringascool.com. More over you can make a contribution to the code if needed.
+## link
+### (https://peternjenga.github.io/Week-1-IP/)
+
 ### License
-MIT
+[MIT] (https://choosealicense.com/licenses/mit/)
 Copyright (c) 2021  **Peter.N**
